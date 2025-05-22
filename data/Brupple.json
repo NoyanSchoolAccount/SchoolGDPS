@@ -1,0 +1,18 @@
+{
+    "id": 108,
+    "name": "Brupple",
+    "author": "Noyan",
+    "creators": ["Noyan", "Oğuz"],
+    "verifier": "Noyan",
+    "verification": "https://youtu.be/rslABbncwcc",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Mert",
+            "link": "",
+            "percent": 19,
+            "hz": 30
+        }
+    ]
+}
