@@ -1,12 +1,18 @@
 {
-    "id": 57436521,
+    "id": 123,
     "name": "Bloodworks",
     "author": "Noyan",
-    "creators": ["Noyan],
+    "creators": ["Noyan"],
     "verifier": "Noyan",
     "verification": "https://youtu.be/T7yBDai_l2M",
     "percentToQualify": "0",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Mert",
+            "link": "",
+            "percent": 11,
+            "hz": 30
+        }
     ]
 }
