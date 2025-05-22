@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Arda",
+            "link": "",
+            "percent": 20,
+            "hz": 30
+        }
+        {
             "user": "Mert",
             "link": "",
             "percent": 11,
