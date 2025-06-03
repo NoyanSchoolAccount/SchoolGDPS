@@ -9,10 +9,10 @@
     "password": "Copyable",
     "records": [
         {
-            "user": "Nobody",
+            "user": "Arda",
             "link": "",
-            "percent": 0,
-            "hz": 0
+            "percent": 13,
+            "hz": 30
         }
     ]
 }
