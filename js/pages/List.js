@@ -118,6 +118,9 @@ export default {
                         Have either source audio, clicks/taps or a CPS counter in the video. Edited audio only does not count
                     </p>
                     <p>
+                        Cheat Indicator must be turned on for all records. If its not enabled records will not be accepted.
+                    </p>
+                    <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
