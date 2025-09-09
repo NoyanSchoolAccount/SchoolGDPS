@@ -135,6 +135,7 @@ export default {
                     <p>
                         Submit records through the "Submit Record" button. DM's will not be accepted.
                     </p>
+                    <a href="https://drive.google.com/file/d/1rMPCkO_IlXIjtdxEiGX9dAMug4eCZRFo/view?usp=drive_link">Download</a>
                 </div>
             </div>
         </main>
